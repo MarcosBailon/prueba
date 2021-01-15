@@ -1,2 +1,3 @@
-<?php
-echo "Hola Mundo\n";
+$ mkdir curso-de-git
+$ cd curso-de-git
+
