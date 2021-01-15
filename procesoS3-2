@@ -3,3 +3,6 @@ $ cd curso-de-git
 
 <?php
 echo "Hola Mundo\n";
+
+$ git init
+Initialized empty Git repository in /home/cc0gobas/git/curso-de-git/.git/
